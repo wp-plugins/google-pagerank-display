@@ -31,7 +31,7 @@ Details: `http://www.getrank.org`
 == Installation ==
 
 1. Unzip the files 
-1. Upload "gpdisplay" directory to the `/wp-content/plugins/` directory
+1. Upload "google-pagerank-display" directory to the `/wp-content/plugins/` directory
 2. Activate the plugin from the 'Plugins' menu in WordPress
 3. (optional) Change style from `Settings > GP Display`
 
