@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: Bora
+Contributors: byybora
 Donate link: http://www.getrank.org
 Tags: pagerank,pr,rank,google pr,google pagerank,button, badge
 Requires at least: 2.0.2
