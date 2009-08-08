@@ -22,9 +22,10 @@ more than 120+ pagerank buttons & badges.
 
 Features:
 
-* Real Google Pagerank : Shows real google pagerank, not gake
+* Real Google Pagerank : Shows real google pagerank, not fake
 * Many Style : There are 127 different pagerank button and badges
 * Automatic : just you change style from option
+* Fast : Loading pagerank fast, get image remotely.
 
 Details: `http://www.getrank.org`
 
