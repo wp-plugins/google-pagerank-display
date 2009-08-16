@@ -88,8 +88,13 @@ for ($i = 1; $i <= 127; $i++) {
 </table>
 
 </form>
-  <div>
-NOTE : <b>&lt;?php show_gpdisplay() ?&gt;</b> // Copy and Paste this code in theme files where you want [ Ex: sidebar.php]
+<div align="left">
+<a href="http://www.getrank.org/" target="_blank" style="color:#FF0000;">Click here</a> for more <u>seo and webmaster tools</u>
+</div>
+<br />
+<br />
+<div align="left">
+NOTE : <b>&lt;?php show_gpdisplay() ?&gt;</b> // Copy and Paste this code in your theme files where you want [ Ex: sidebar.php]
 </div>
 <?php
 }
