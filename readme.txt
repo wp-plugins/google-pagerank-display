@@ -48,23 +48,14 @@ Preparing..
 
 == Changelog ==
 
-1.0.0 Initial version
+1.1
+* Preview pagerank styles on admin section
+
+-----------------------
+1.0 Initial version
 
 == Arbitrary section ==
 
-== A brief Markdown Example ==
-
-Ordered list:
-
-1. Simple Installation
-2. Many Styles
-3. Fast Loading
-
-Unordered list:
-
-* Simple Installation
-* Many Styles
-* Fast Loading
 
 See homepage for updates [http://www.getrank.org](http://www.getrank.org/ "GetRank") .
 
