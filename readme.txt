@@ -48,8 +48,9 @@ Preparing..
 
 == Changelog ==
 
-1.1
-* Preview pagerank styles on admin section
+1.1 Version
+New   * Preview pagerank styles on admin section
+Fixed * Selected style
 
 -----------------------
 1.0 Initial version
