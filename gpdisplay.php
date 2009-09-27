@@ -94,7 +94,7 @@ for ($i = 1; $i <= 127; $i++) {
 <br />
 <br />
 <div align="left">
-NOTE : <b>&lt;?php show_gpdisplay() ?&gt;</b> // Copy and Paste this code in your theme files where you want [ Ex: sidebar.php]
+NOTE : <b>&lt;?php show_gpdisplay() ?&gt;</b> // Copy and Paste this code in your theme files where you want [ Example: sidebar.php]
 </div>
 <?php
 }
@@ -112,6 +112,5 @@ function gpdisplay_install()
 
 add_action('admin_menu', 'gpdisplay_add_admin');
 register_activation_hook(__FILE__,"gpdisplay_install");
-
 
 ?>
