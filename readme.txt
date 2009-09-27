@@ -58,6 +58,6 @@ Fixed * Selected style
 == Arbitrary section ==
 
 
-See homepage for updates [http://www.getrank.org](http://www.getrank.org/ "GetRank") .
+See homepage for updates [http://www.getrank.org](http://www.getrank.org/ "GetRank")  .
 
 > Instantly Check Free Your Site Google PageRank **

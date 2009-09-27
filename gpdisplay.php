@@ -113,4 +113,5 @@ function gpdisplay_install()
 add_action('admin_menu', 'gpdisplay_add_admin');
 register_activation_hook(__FILE__,"gpdisplay_install");
 
+
 ?>
