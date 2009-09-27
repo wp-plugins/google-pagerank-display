@@ -3,7 +3,7 @@
 Plugin Name: Google PageRank Display
 Plugin URI: http://www.getrank.org/wp-google-pagerank-display/
 Description: Google PageRank Display shows your site pagerank instantly and you can change style from General Options or <a href="options-general.php?page=gpdisplay">here</a>. more than 120+ pagerank buttons & badges
-Version: 1.1
+Version: 1.2
 Author: Bora
 Author URI: http://www.getrank.org
 */
