@@ -11,7 +11,7 @@ Check your site free google pagerank value with more than 120 pagerank buttons a
 == Description ==
 
 Google PageRank Display shows your site pagerank instantly and you can change style from General Options.
-more than 120+ pagerank buttons & badges.
+more than 130+ pagerank buttons & badges.
  * Install files
  * Activate the plugin
  * Go General Options [`options-general.php?page=gpdisplay`]
@@ -47,6 +47,8 @@ Details: `http://www.getrank.org`
 Preparing..
 
 == Changelog ==
+1.3 Version
+New * 5 Styles & Buttons Added
 
 1.2 Version
 Fixed * Pagerank issue
