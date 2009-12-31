@@ -1,12 +1,12 @@
 === Plugin Name ===
 Contributors: byybora
 Donate link: http://www.getrank.org
-Tags: pagerank,pr,rank,google pr,google pagerank,button, badge
+Tags: pagerank,pr,rank,google pr,google pagerank,button, badge, page rank
 Requires at least: 2.0.2
 Tested up to: 2.8
 Stable tag: trunk
 
-Check your site free google pagerank value with more than 120 pagerank buttons and badges
+Check your site free google pagerank value with more than 130 pagerank buttons and badges
 
 == Description ==
 
@@ -23,9 +23,10 @@ more than 130+ pagerank buttons & badges.
 Features:
 
 * Real Google Pagerank : Shows real google pagerank, not fake
-* Many Style : There are 127 different pagerank button and badges
+* Many Style : There are 134 different pagerank button and badges
 * Automatic : just you change style from option
 * Fast : Loading pagerank fast, get image remotely.
+* Get your site page rank instantly
 
 Details: `http://www.getrank.org`
 
@@ -47,6 +48,10 @@ Details: `http://www.getrank.org`
 Preparing..
 
 == Changelog ==
+1.4 Version
+New * 2 Styles & Buttons Added
+Fixed * Some issue
+
 1.3 Version
 New * 5 Styles & Buttons Added
 
